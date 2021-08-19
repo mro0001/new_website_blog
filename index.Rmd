@@ -1,0 +1,37 @@
+---
+title: "Michael Overton, PhD"
+image: "overton.jpeg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/overtonmichael7"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/michael-overton-ph-d-0496a690"
+  - label: GitHub
+    url: "https://github.com/mro0001"
+  - label: Email
+    url: "mailto:Moverton@uidaho.edu"
+
+output:
+  postcards::trestles
+
+site: distill::distill_website
+
+---
+
+## Welcome!
+
+I am an Assitant Professor of Public Administration at the University of Idaho where I research local government management, data science, budgeting, and economic development. 
+
+Poke around my website and find out way too much about me!
+
+## Education
+
+**University of North Texas** | Denton, TX
+
+Ph.D. in Public Administration | May 2015
+
+**University of North Texas** | Denton, TX
+
+M.P.A. in Public Administration | May 2014
+
+

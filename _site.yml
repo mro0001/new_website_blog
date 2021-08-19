@@ -1,0 +1,24 @@
+name: "Michael Overton, PhD Two"
+title: "Michael Overton, PhD"
+description: |
+  Professional Website
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "CV and Bio"
+      href: Bio.html
+    - text: "Research"
+      href: Research.html
+    - text: "Teaching"
+      href: Teaching.html
+    - text: "Grants"
+      href: Grants.html
+    - text: "Personal"
+      href: Personal.html
+    - text: "Links"
+      href: Links.html
+    - text: "Blog"
+      href: Blog.html
+output: distill::distill_article

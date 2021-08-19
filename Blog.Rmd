@@ -1,0 +1,7 @@
+---
+title: "Blog"
+description: "What am I thinking"
+listing: 
+  posts:
+    - 2021-08-16-life
+---

@@ -1,0 +1,13 @@
+---
+title: "Life"
+description: |
+  Why I love my life. (Hint: It is because of my wife and dogs)
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+My wife is brilliant, hilarious, driven and good at almost everything!
+
+
